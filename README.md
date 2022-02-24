@@ -1,5 +1,5 @@
 # CoinFlipper
-Coin Flipping Simulation(How many times could a coin land on its side?)
+Coin Flipping Simulation(How many times could a coin land on its edge?)
 
 Project Documentation
 	Background: The overall context of this project is to simulate the flipping of a coin, but more specifically an American nickel. 
